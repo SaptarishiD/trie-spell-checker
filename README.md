@@ -1,4 +1,6 @@
-**Data Structures Project: Trie**
+**Project for the course CS-1203 Data Structures**
+
+**Trie Spell Checker**
 
 I have implemented the trie data structure, also known as a prefix tree. 
 It has been applied to make a spell-checker that supports all 26 English alphabets plus apostrophes. 
